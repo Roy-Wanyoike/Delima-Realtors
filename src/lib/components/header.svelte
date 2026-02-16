@@ -27,24 +27,10 @@
 
                             <ul class="navbar-nav mr-auto" id="menu">
                                 <li class="nav-item"><a class="nav-link" href="/">Home</a></li>                   
-                                <li class="nav-item"><a class="nav-link" href="/about">About Us</a></li>
-                                <li class="nav-item"><a class="nav-link" href="/amenities">Amenities</a></li>
-                                <li class="nav-item"><a class="nav-link" href="/projects">Projects</a></li>
-                                <!-- <li class="nav-item submenu"><a class="nav-link" href="#/">Pages</a>
-                                    <ul>                                        
-                                        <li class="nav-item"><a class="nav-link" href="/amenities">Amenities Details</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="/projects">Project Details</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="/blog">Blog</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="/blog-single">Blog Details</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="/team">Our Team</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="/team-single">Team Details</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="/image-gallery">Image Gallery</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="/video-gallery">Video Gallery</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="/faqs">FAQs</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="/404">404</a></li>
-                                    </ul>
-                                </li> -->
-                                <li class="nav-item"><a class="nav-link" href="/contact">Contact Us</a></li>                           
+                                <li class="nav-item"><a class="nav-link" href="/about">About</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/amenities">Services</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/projects">Properties</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>                           
                             </ul>
                         </div>
                         <!-- Header Contact Box Start -->
