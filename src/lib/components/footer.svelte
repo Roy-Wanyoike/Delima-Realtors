@@ -13,15 +13,16 @@
                     <div class="footer-content">
                         <!-- Footer Logo Start -->
                         <div class="footer-logo">
-                            <img src="/lib/assets/footer-logo.svg" alt="">
+                            <img src="/lib/assets/logo/LogoMakerCa-1771232657338-removebg-preview.png" alt="Delima Realtors Logo">
                         </div>
                         <!-- Footer Logo End -->
 
                         <!-- Footer Contact Info Start -->
                         <div class="footer-contact-info">
                             <h2><a href="#/">info@delimarealtors.com</a></h2>
-                            <h3><a href="tel:254701432884">+254 701 432 884</a></h3>
-                            <p>Argwings Kodhek Road,Kilimani,Nairobi</p>
+                            <h3><a href="tel:+254727523752">+254 727 523 752</a></h3>
+                            <p>Argwings Kodhek Road, Kilimani, Nairobi 00100, Kenya</p>
+                            <p style="font-size: 0.85rem; color: #999; margin-top: 8px;">Serving Nairobi's Premier Neighborhoods: Westlands, Karen, Kilimani, Muthaiga, Runda & More</p>
                         </div>
                         <!-- Footer Contact Info End -->
 
@@ -40,9 +41,9 @@
                             <!-- Footer Links Start -->
                             <div class="footer-links">
                                 <ul>
-                                    <li><a href="/projects">About project</a></li>
-                                    <li><a href="#/">Construction progress</a></li>
-                                    <li><a href="#/">Documentation</a></li>
+                                    <li><a href="/projects">Featured Listings</a></li>
+                                    <li><a href="/services">Our Services</a></li>
+                                    <li><a href="/about">About Us</a></li>
                                 </ul>
                             </div>
                             <!-- Footer Links End -->
@@ -50,8 +51,8 @@
                             <!-- Footer Links Start -->
                             <div class="footer-links">
                                 <ul>
-                                    <li><a href="#/">Privacy policy</a></li>
-                                    <li><a href="#/">The terms</a></li>
+                                    <li><a href="https://delimarealtors.com/privacy">Privacy Policy</a></li>
+                                    <li><a href="https://delimarealtors.com/terms">Terms & Conditions</a></li>
                                 </ul>
                             </div>
                             <!-- Footer Links End -->

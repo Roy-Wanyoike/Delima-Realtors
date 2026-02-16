@@ -3,16 +3,27 @@
     <!-- Page Contact Start -->
     <div class="page-contact-us">
         <div class="container">
+            <div class="row" style="margin-bottom: 30px;">
+                <div class="col-lg-12">
+                    <div class="section-title" style="text-align: center;">
+                        <h3 class="wow fadeInUp">get in touch</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Contact Delima Realtors <span>Today</span></h2>
+                        <p style="color: #666; margin-top: 15px; font-size: 1.05rem;">Reach out to our expert team for all your real estate needs. We're here to help you find the perfect property or investment opportunity.</p>
+                    </div>
+                </div>
+            </div>
+
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <!-- Contact Info Item Start -->
                     <div class="contact-info-item wow fadeInUp">
                         <div class="icon-box">
-                            <img src="images/icon-location.svg" alt="">
+                            <img src="/lib/assets/icon-location.svg" alt="">
                         </div>
                         <div class="contact-info-content">
-                            <h3>address</h3>
-                            <p>123, Lorem Ipsum, Street No, City, Country 123456</p>
+                            <h3>nairobi headquarters</h3>
+                            <p>Argwings Kodhek Road, Kilimani</p>
+                            <p>Nairobi, Kenya</p>
                         </div>
                     </div>
                     <!-- Contact Info Item End -->
@@ -22,12 +33,12 @@
                     <!-- Contact Info Item Start -->
                     <div class="contact-info-item wow fadeInUp" data-wow-delay="0.25s">
                         <div class="icon-box">
-                            <img src="images/icon-phone.svg" alt="">
+                            <img src="/lib/assets/icon-phone.svg" alt="">
                         </div>
                         <div class="contact-info-content">
-                            <h3>call us</h3>
-                            <p>+1(0) 123456789</p>
-                            <p>+1(0) 789123456</p>
+                            <h3>call us 24/7</h3>
+                            <p>+254 727 523 752</p>
+                            <p>Property Inquiries & Support</p>
                         </div>
                     </div>
                     <!-- Contact Info Item End -->
@@ -37,12 +48,12 @@
                     <!-- Contact Info Item Start -->
                     <div class="contact-info-item wow fadeInUp" data-wow-delay="0.5s">
                         <div class="icon-box">
-                            <img src="images/icon-email.svg" alt="">
+                            <img src="/lib/assets/icon-email.svg" alt="">
                         </div>
                         <div class="contact-info-content">
-                            <h3>e-mail</h3>
-                            <p>info@domain.com</p>
-                            <p>info@domain.com</p>
+                            <h3>e-mail us</h3>
+                            <p>info@delimarealtors.com</p>
+                            <p>Residential & Commercial Inquiries</p>
                         </div>
                     </div>
                     <!-- Contact Info Item End -->
@@ -61,9 +72,9 @@
                     <div class="contact-form-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h3 class="wow fadeInUp">get in touch</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">The trusted partner in <span>protecting your</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.25s">For all your property needs, feel free to reach out to us. Our expert team is ready to assist you with personalized solutions.</p>
+                            <h3 class="wow fadeInUp">inquire now</h3>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Find Your Perfect Property in <span>Nairobi's Best Neighborhoods</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.25s">Whether you're buying your first home in Karen or Westlands, investing in growth corridors like Thika Road, or seeking commercial space in Nairobi's CBD, our expert team is ready to connect you with the perfect property solution tailored to your needs.</p>
                         </div>
                         <!-- Section Title End -->
                     </div>
@@ -120,7 +131,7 @@
                 <div class="col-lg-12">
                     <!-- Google Map Start -->
                     <div class="google-map-iframe">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96737.10562045308!2d-74.08535042841811!3d40.739265258395164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sin!4v1703158537552!5m2!1sen!2sin" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe title="Delima Realtors Location Map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96737.10562045308!2d-74.08535042841811!3d40.739265258395164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sin!4v1703158537552!5m2!1sen!2sin" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                     <!-- Google Map End -->
                 </div>

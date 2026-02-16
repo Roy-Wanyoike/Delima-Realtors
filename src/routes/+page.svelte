@@ -4,7 +4,7 @@
 	<div class="preloader">
 		<div class="loading-container">
 			<div class="loading"></div>
-			<div id="loading-icon"><img src="/lib/assets/loader.svg" alt=""></div>
+			<div id="loading-icon"><img src="/lib/assets/logo/LogoMakerCa-1771232657338-removebg-preview.png" alt="Delima Realtors Logo"></div>
 		</div>
 	</div>
 	<!-- Preloader End -->
@@ -34,14 +34,14 @@
                     <div class="hero-content">
                         <!-- Section Title Start -->
                         <div class="section-title dark-section">
-                            <h3 class="wow fadeInUp">living luxury</h3>
-                            <h1 class="text-anime-style-2" data-cursor="-opaque">Discover unmatched style & <span>sophistication</span></h1>
+                            <h3 class="wow fadeInUp">Real Estate Excellence</h3>
+                            <h1 class="text-anime-style-2" data-cursor="-opaque">Find Your Perfect Home in <span>Nairobi's Best Neighborhoods</span></h1>
                         </div>
                         <!-- Section Title End -->
 
                         <!-- Hero Button Start -->
                         <div class="hero-btn wow fadeInUp" data-wow-delay="0.25s">
-                            <a href="contact.html" class="btn-default">get a free tour</a>
+                            <a href="/contact" class="btn-default">Get a Free Consultation</a>
                         </div>
                         <!-- Hero Button End -->                   
                     </div>
@@ -118,8 +118,8 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">about us</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Bringing Innovation And Heart to <span> Every Detail</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.2s">We believe that true luxury lies in the details, which is why every aspect of our designs reflects a thoughtful balance of innovation and personal touch. From the grand design down to the smallest finishes.</p>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Accredited Estate Agents <span>in Nairobi's Premier Locations</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">As accredited estate agents serving Nairobi, we specialise in premium neighborhoods including Westlands, Karen, Kilimani, Muthaiga, Runda, and Upper Hill. We navigate the dynamic Nairobi property market to help you find investment opportunities and dream homes with seamless, rewarding transactions.</p>
                         </div>
                         <!-- Section Title End -->
 
@@ -132,8 +132,8 @@
                                 </div>
 
                                 <div class="about-detail-content">
-                                    <h3>customized solutions</h3>
-                                    <p>We create tailored solutions that reflect your unique style, need, and vision, ensuring every element align.</p>
+                                    <h3>Tailored Solutions</h3>
+                                    <p>We provide trusted real estate services tailored to your specific property investment needs, whether you're buying, selling, or investing.</p>
                                 </div>
                             </div>
                             <!-- About Detail Item End -->
@@ -145,8 +145,8 @@
                                 </div>
 
                                 <div class="about-detail-content">
-                                    <h3>quality meets commitment</h3>
-                                    <p>We create tailored solutions that reflect your unique style, need, and vision, ensuring every element align.</p>
+                                    <h3>Expert Market Knowledge</h3>
+                                    <p>Our accredited agents have deep expertise in the Nairobi property market, helping first-time homebuyers and seasoned investors alike.</p>
                                 </div>
                             </div>
                             <!-- About Detail Item End -->
@@ -157,7 +157,7 @@
                          <div class="about-content-footer wow fadeInUp" data-wow-delay="0.8s">
                             <!-- About Content Button Start -->
                             <div class="about-content-btn">
-                                <a href="about.html" class="btn-default">learn more</a>
+                                <a href="/about" class="btn-default">learn more</a>
                             </div>
                             <!-- About Content Button End -->
 
@@ -169,7 +169,7 @@
 
                                 <div class="about-contact-content">
                                     <p>call us 24/7</p>
-                                    <h3><a href="tel:123456789">+ 0 (123) 456 789</a></h3>
+                                    <h3><a href="tel:+254727523752">+254 727 523 752</a></h3>
                                 </div>
                             </div>
                             <!-- About Contact Box End -->
@@ -190,8 +190,8 @@
                 <div class="col-lg-12">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp">aprtments</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Apartment styles to fit <span>your lifestyle</span></h2>
+                        <h3 class="wow fadeInUp">our properties</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Premium Properties in <span>Nairobi</span></h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -219,7 +219,7 @@
                          
                         <!-- Apartment Content Start -->
                         <div class="apartments-content">
-                            <h3><a href="#/">studio apartment</a></h3>
+                            <h3><a href="#/">Studio Apartments</a></h3>
                         </div>
                         <!-- Apartment Content End -->
                     </div>
@@ -246,7 +246,7 @@
 
                         <!-- Apartment Content Start -->
                         <div class="apartments-content">
-                            <h3><a href="#/">luxury apartment</a></h3>
+                            <h3><a href="#/">Luxury Apartments</a></h3>
                         </div>
                         <!-- Apartment Content End -->
                     </div>
@@ -273,7 +273,7 @@
 
                         <!-- Apartment Content Start -->
                         <div class="apartments-content">
-                            <h3><a href="#/">deluxe apartment</a></h3>
+                            <h3><a href="#/">Deluxe Homes</a></h3>
                         </div>
                         <!-- Apartment Content End -->
                     </div>
@@ -699,14 +699,14 @@
                     <div class="our-features-content">
                         <!-- Section Title Start -->
                         <div class="section-title dark-section">
-                            <h3 class="wow fadeInUp">our features</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Apartment tailored to your <span>highest standards</span></h2>
+                            <h3 class="wow fadeInUp">delima realtors</h3>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Comprehensive Real Estate <span>Services for Everyone</span></h2>
                         </div>
                         <!-- Section Title End -->
 
                         <!-- Our Features Button Start -->
                         <div class="our-features-btn wow fadeInUp" data-wow-delay="0.25s">
-                            <a href="contact.html" class="btn-default btn-highlighted">schedule a visit</a>
+                            <a href="/services" class="btn-default btn-highlighted">explore our services</a>
                         </div>
                         <!-- Our Features Button End -->
                     </div>
@@ -722,8 +722,8 @@
                                 <img src="/lib/assets/icon-features-1.svg" alt="">
                             </div>
                             <div class="features-item-content">
-                                <h3>air cleaning</h3>
-                                <p>Designed to reduce allergens, dust, and pollutants, these systems create a healthier.</p>
+                                <h3>residential sales</h3>
+                                <p>Houses, apartments, and gated communities tailored to your lifestyle needs.</p>
                             </div>
                         </div>
                         <!-- Features Item End -->
@@ -734,8 +734,8 @@
                                 <img src="/lib/assets/icon-features-2.svg" alt="">
                             </div>
                             <div class="features-item-content">
-                                <h3>ventilation</h3>
-                                <p>Designed to reduce allergens, dust, and pollutants, these systems create a healthier.</p>
+                                <h3>home buyer services</h3>
+                                <p>Dedicated representation and expert negotiation for your property purchase.</p>
                             </div>
                         </div>
                         <!-- Features Item End -->
@@ -746,8 +746,8 @@
                                 <img src="/lib/assets/icon-features-3.svg" alt="">
                             </div>
                             <div class="features-item-content">
-                                <h3>heating</h3>
-                                <p>Designed to reduce allergens, dust, and pollutants, these systems create a healthier.</p>
+                                <h3>investment advisory</h3>
+                                <p>Strategic guidance for property investments with maximum ROI potential.</p>
                             </div>
                         </div>
                         <!-- Features Item End -->
@@ -758,8 +758,8 @@
                                 <img src="/lib/assets/icon-features-4.svg" alt="">
                             </div>
                             <div class="features-item-content">
-                                <h3>water supply</h3>
-                                <p>Designed to reduce allergens, dust, and pollutants, these systems create a healthier.</p>
+                                <h3>commercial properties</h3>
+                                <p>Professional spaces and commercial leasing opportunities for your business.</p>
                             </div>
                         </div>
                         <!-- Features Item End -->
@@ -770,8 +770,8 @@
                                 <img src="/lib/assets/icon-features-5.svg" alt="">
                             </div>
                             <div class="features-item-content">
-                                <h3>air cleaning</h3>
-                                <p>Designed to reduce allergens, dust, and pollutants, these systems create a healthier.</p>
+                                <h3>luxury properties</h3>
+                                <p>Premium properties in exclusive Nairobi locations for discerning buyers.</p>
                             </div>
                         </div>
                         <!-- Features Item End -->
@@ -782,8 +782,8 @@
                                 <img src="/lib/assets/icon-features-6.svg" alt="">
                             </div>
                             <div class="features-item-content">
-                                <h3>security</h3>
-                                <p>Designed to reduce allergens, dust, and pollutants, these systems create a healthier.</p>
+                                <h3>market expertise</h3>
+                                <p>Deep insights into Nairobi's real estate market trends and opportunities.</p>
                             </div>
                         </div>
                         <!-- Features Item End -->
@@ -819,11 +819,11 @@
                                 <img src="/lib/assets/icon-amenities-1.svg" alt="">
                             </div>
                             <div class="amenities-item-content">
-                                <h3>available for rent</h3>
-                                <p>Designed to reduce allergens, dust, and pollutants, these systems create a healthier.</p>
+                                <h3>Property Sourcing</h3>
+                                <p>Access to thousands of verified listings across all property types and segments.</p>
                             </div>
                             <div class="features-btn">
-                                <a href="amenities-single.html" class="readmore-btn">read more</a>
+                                <a href="/services" class="readmore-btn">learn more</a>
                             </div>
                         </div>
                         <!-- Amenities Item End -->
@@ -834,11 +834,11 @@
                                 <img src="/lib/assets/icon-amenities-2.svg" alt="">
                             </div>
                             <div class="amenities-item-content">
-                                <h3>Properly planned</h3>
-                                <p>Designed to reduce allergens, dust, and pollutants, these systems create a healthier.</p>
+                                <h3>Market Intelligence</h3>
+                                <p>Real-time market data and trends to guide your real estate decisions.</p>
                             </div>
                             <div class="features-btn">
-                                <a href="amenities-single.html" class="readmore-btn">read more</a>
+                                <a href="/services" class="readmore-btn">learn more</a>
                             </div>
                         </div>
                         <!-- Amenities Item End -->
@@ -849,11 +849,11 @@
                                 <img src="/lib/assets/icon-amenities-3.svg" alt="">
                             </div>
                             <div class="amenities-item-content">
-                                <h3>Fixed wardrobe</h3>
-                                <p>Designed to reduce allergens, dust, and pollutants, these systems create a healthier.</p>
+                                <h3>Legal Support</h3>
+                                <p>Full legal coordination and documentation assistance throughout transactions.</p>
                             </div>
                             <div class="features-btn">
-                                <a href="amenities-single.html" class="readmore-btn">read more</a>
+                                <a href="/services" class="readmore-btn">learn more</a>
                             </div>
                         </div>
                         <!-- Amenities Item End -->
@@ -864,11 +864,11 @@
                                 <img src="/lib/assets/icon-amenities-4.svg" alt="">
                             </div>
                             <div class="amenities-item-content">
-                                <h3>Kids play area</h3>
-                                <p>Designed to reduce allergens, dust, and pollutants, these systems create a healthier.</p>
+                                <h3>Investment Planning</h3>
+                                <p>Strategic advice for portfolio building and long-term wealth creation.</p>
                             </div>
                             <div class="features-btn">
-                                <a href="amenities-single.html" class="readmore-btn">read more</a>
+                                <a href="/services" class="readmore-btn">learn more</a>
                             </div>
                         </div>
                         <!-- Amenities Item End -->
@@ -879,11 +879,11 @@
                                 <img src="/lib/assets/icon-amenities-5.svg" alt="">
                             </div>
                             <div class="amenities-item-content">
-                                <h3>Art gallery space</h3>
-                                <p>Designed to reduce allergens, dust, and pollutants, these systems create a healthier.</p>
+                                <h3>Financing Advisory</h3>
+                                <p>Guidance on mortgage options and financing solutions for your purchase.</p>
                             </div>
                             <div class="features-btn">
-                                <a href="amenities-single.html" class="readmore-btn">read more</a>
+                                <a href="/services" class="readmore-btn">learn more</a>
                             </div>
                         </div>
                         <!-- Amenities Item End -->
@@ -894,11 +894,11 @@
                                 <img src="/lib/assets/icon-amenities-6.svg" alt="">
                             </div>
                             <div class="amenities-item-content">
-                                <h3>Planned construction</h3>
-                                <p>Designed to reduce allergens, dust, and pollutants, these systems create a healthier.</p>
+                                <h3>Relocation Support</h3>
+                                <p>Complete relocation assistance and property orientation services.</p>
                             </div>
                             <div class="features-btn">
-                                <a href="amenities-single.html" class="readmore-btn">read more</a>
+                                <a href="/services" class="readmore-btn">learn more</a>
                             </div>
                         </div>
                         <!-- Amenities Item End -->
@@ -909,6 +909,72 @@
         </div>
     </div>
     <!-- Our amenities Section End -->
+
+    <!-- Browse Neighborhoods Section Start -->
+    <div style="padding: 80px 20px; background: #f8f8f8;">
+        <div class="container">
+            <div class="row section-row" style="margin-bottom: 50px;">
+                <div class="col-lg-12">
+                    <div class="section-title" style="text-align: center;">
+                        <h3 class="wow fadeInUp">nairobi neighborhoods</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Explore Properties Across <span>Nairobi's Best Areas</span></h2>
+                        <p style="color: #666; margin-top: 15px; font-size: 1.05rem; max-width: 700px; margin-left: auto; margin-right: auto;">From ultra-premium enclaves to emerging growth corridors, discover the perfect neighborhood for your lifestyle or investment needs.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s" style="margin-bottom: 30px;">
+                    <div style="background: white; padding: 25px; border-radius: 8px; border-left: 4px solid #d4af37; box-shadow: 0 3px 10px rgba(0,0,0,0.05); height: 100%; cursor: pointer; transition: all 0.3s;">
+                        <h3 style="color: #d4af37; margin-bottom: 10px; font-size: 1.2rem;">🏙️ Westlands</h3>
+                        <p style="color: #666; font-size: 0.95rem; line-height: 1.6; margin-bottom: 15px;">Nairobi's premier business and residential hub. Modern apartments, luxury condominiums, and excellent infrastructure.</p>
+                        <a href="/projects" style="color: #d4af37; text-decoration: none; font-weight: bold; font-size: 0.9rem;">Browse listings →</a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s" style="margin-bottom: 30px;">
+                    <div style="background: white; padding: 25px; border-radius: 8px; border-left: 4px solid #d4af37; box-shadow: 0 3px 10px rgba(0,0,0,0.05); height: 100%; cursor: pointer; transition: all 0.3s;">
+                        <h3 style="color: #d4af37; margin-bottom: 10px; font-size: 1.2rem;">💎 Karen</h3>
+                        <p style="color: #666; font-size: 0.95rem; line-height: 1.6; margin-bottom: 15px;">Exclusive residential area with spacious plots, standalone homes, and mature trees. Popular with high-net-worth individuals.</p>
+                        <a href="/projects" style="color: #d4af37; text-decoration: none; font-weight: bold; font-size: 0.9rem;">Browse listings →</a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s" style="margin-bottom: 30px;">
+                    <div style="background: white; padding: 25px; border-radius: 8px; border-left: 4px solid #d4af37; box-shadow: 0 3px 10px rgba(0,0,0,0.05); height: 100%; cursor: pointer; transition: all 0.3s;">
+                        <h3 style="color: #d4af37; margin-bottom: 10px; font-size: 1.2rem;">🎨 Kilimani</h3>
+                        <p style="color: #666; font-size: 0.95rem; line-height: 1.6; margin-bottom: 15px;">Vibrant middle-class residential area with diverse housing, excellent services, and strong appreciation potential.</p>
+                        <a href="/projects" style="color: #d4af37; text-decoration: none; font-weight: bold; font-size: 0.9rem;">Browse listings →</a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s" style="margin-bottom: 30px;">
+                    <div style="background: white; padding: 25px; border-radius: 8px; border-left: 4px solid #d4af37; box-shadow: 0 3px 10px rgba(0,0,0,0.05); height: 100%; cursor: pointer; transition: all 0.3s;">
+                        <h3 style="color: #d4af37; margin-bottom: 10px; font-size: 1.2rem;">👑 Muthaiga</h3>
+                        <p style="color: #666; font-size: 0.95rem; line-height: 1.6; margin-bottom: 15px;">Ultra-premium gated community with lavish homes, exclusive clubs, and prestigious lifestyle offerings.</p>
+                        <a href="/projects" style="color: #d4af37; text-decoration: none; font-weight: bold; font-size: 0.9rem;">Browse listings →</a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s" style="margin-bottom: 30px;">
+                    <div style="background: white; padding: 25px; border-radius: 8px; border-left: 4px solid #d4af37; box-shadow: 0 3px 10px rgba(0,0,0,0.05); height: 100%; cursor: pointer; transition: all 0.3s;">
+                        <h3 style="color: #d4af37; margin-bottom: 10px; font-size: 1.2rem;">⭐ Upper Hill</h3>
+                        <p style="color: #666; font-size: 0.95rem; line-height: 1.6; margin-bottom: 15px;">Upscale residential and commercial area offering excellent investment returns with modern infrastructure.</p>
+                        <a href="/projects" style="color: #d4af37; text-decoration: none; font-weight: bold; font-size: 0.9rem;">Browse listings →</a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s" style="margin-bottom: 30px;">
+                    <div style="background: white; padding: 25px; border-radius: 8px; border-left: 4px solid #d4af37; box-shadow: 0 3px 10px rgba(0,0,0,0.05); height: 100%; cursor: pointer; transition: all 0.3s;">
+                        <h3 style="color: #d4af37; margin-bottom: 10px; font-size: 1.2rem;">🚀 Growth Corridors</h3>
+                        <p style="color: #666; font-size: 0.95rem; line-height: 1.6; margin-bottom: 15px;">High-growth areas including Thika Road, Kikuyu, and emerging zones offering excellent investment potential.</p>
+                        <a href="/projects" style="color: #d4af37; text-decoration: none; font-weight: bold; font-size: 0.9rem;">Browse listings →</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Browse Neighborhoods Section End -->
 
     <!-- Our Experience Section Start -->
     <div class="our-experience">
@@ -929,9 +995,9 @@
                     <div class="our-experience-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h3 class="wow fadeInUp">our experiences</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">50 Years' experience in the <span> real estate sector</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.25s">Over the years, we've honed our approach to delivering exceptional properties that meet the highest standards of quality and value. Our experience ensures that every project benefits from our industry insights</p>
+                            <h3 class="wow fadeInUp">our experience</h3>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Trusted Real Estate Partner in <span>Nairobi, Kenya</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.25s">With extensive experience in the Nairobi property market, Delima Realtors has built a reputation for excellence, integrity, and client satisfaction. We leverage deep market knowledge and industry expertise to deliver exceptional results for every client.</p>
                         </div>
                         <!-- Section Title End -->
 
@@ -943,8 +1009,8 @@
                                     <img src="/lib/assets/icon-experience-1.svg" alt="">
                                 </div>
                                 <div class="experience-counter-content">
-                                    <h2><span class="counter">1750</span></h2>
-                                    <p>square areas</p>
+                                    <h2><span class="counter">500</span>+</h2>
+                                    <p>Successful Transactions</p>
                                 </div>
                             </div>
                             <!-- Experience Counter Item End -->
@@ -955,8 +1021,8 @@
                                     <img src="/lib/assets/icon-experience-2.svg" alt="">
                                 </div>
                                 <div class="experience-counter-content">
-                                    <h2><span class="counter">250</span>k</h2>
-                                    <p>garden areas</p>
+                                    <h2><span class="counter">1000</span>+</h2>
+                                    <p>Satisfied Clients</p>
                                 </div>
                             </div>
                             <!-- Experience Counter Item End -->
@@ -967,8 +1033,8 @@
                                     <img src="/lib/assets/icon-experience-3.svg" alt="">
                                 </div>
                                 <div class="experience-counter-content">
-                                    <h2><span class="counter">650</span>+</h2>
-                                    <p>building areas</p>
+                                    <h2><span class="counter">8000</span>+</h2>
+                                    <p>Properties Listed</p>
                                 </div>
                             </div>
                             <!-- Experience Counter Item End -->
@@ -979,8 +1045,8 @@
                                     <img src="/lib/assets/icon-experience-4.svg" alt="">
                                 </div>
                                 <div class="experience-counter-content">
-                                    <h2><span class="counter">150</span></h2>
-                                    <p>car parking</p>
+                                    <h2><span class="counter">99</span>%</h2>
+                                    <p>Client Satisfaction</p>
                                 </div>
                             </div>
                             <!-- Experience Counter Item End -->
@@ -1001,8 +1067,8 @@
                 <div class="col-lg-6 col-md-8">
                     <!-- Section Title Start -->
                     <div class="section-title dark-section">
-                        <h3 class="wow fadeInUp">interior design</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">The residences at blue <span>ridge summit</span></h2>
+                        <h3 class="wow fadeInUp">delima realtors solutions</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Your Journey to the Perfect <span>Property Starts Here</span></h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -1012,7 +1078,7 @@
                     <div class="intro-video-box">
                         <!-- Video Play Button Start -->
                         <div class="video-play-button">
-                            <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">take a tour</a>
+                            <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">learn more</a>
                         </div>
                         <!-- Video Play Button End -->
                     </div>
@@ -1026,33 +1092,33 @@
                     <div class="intro-video-counter-list">
                         <!-- Intro Video Counter Item Start -->
                         <div class="intro-video-counter-item">
-                            <h3>Spacious life</h3>
-                            <h2><span class="counter">2468</span>Sq.ft</h2>
-                            <p>Maximized space and natural light for a welcoming ambiance.</p>
+                            <h3>Expert Team</h3>
+                            <h2><span class="counter">25</span>+</h2>
+                            <p>Accredited real estate professionals dedicated to your success</p>
                         </div>
                         <!-- Intro Video Counter Item End -->
 
                         <!-- Intro Video Counter Item Start -->
                         <div class="intro-video-counter-item">
-                            <h3>Happy clients</h3>
-                            <h2><span class="counter">37</span>M</h2>
-                            <p>Maximized space and natural light for a welcoming ambiance.</p>
+                            <h3>Active Listings</h3>
+                            <h2><span class="counter">8000</span></h2>
+                            <p>Diverse properties across all segments in Nairobi</p>
                         </div>
                         <!-- Intro Video Counter Item End -->
 
                         <!-- Intro Video Counter Item Start -->
                         <div class="intro-video-counter-item">
-                            <h3>Listed properties</h3>
-                            <h2><span class="counter">697</span>k+</h2>
-                            <p>Maximized space and natural light for a welcoming ambiance.</p>
+                            <h3>Market Coverage</h3>
+                            <h2><span class="counter">50</span>+</h2>
+                            <p>Neighborhoods and areas covered in the Nairobi market</p>
                         </div>
                         <!-- Intro Video Counter Item End -->
 
                         <!-- Intro Video Counter Item Start -->
                         <div class="intro-video-counter-item">
-                            <h3>Rated top</h3>
-                            <h2><span class="counter">9</span>/10</h2>
-                            <p>Maximized space and natural light for a welcoming ambiance.</p>
+                            <h3>Client Rating</h3>
+                            <h2><span class="counter">4.9</span>/5</h2>
+                            <p>Exceptional service quality rated by our satisfied clients</p>
                         </div>
                         <!-- Intro Video Counter Item End -->
                     </div>

@@ -1,6 +1,16 @@
    <!-- Page Amenities Start -->
     <div class="page-amenities">
         <div class="container">
+            <div class="row section-row" style="margin-bottom: 50px;">
+                <div class="col-lg-12">
+                    <div class="section-title" style="text-align: center;">
+                        <h3 class="wow fadeInUp">real estate services</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Our Comprehensive Range of <span>Real Estate Solutions</span></h2>
+                        <p style="color: #666; margin-top: 15px; font-size: 1.05rem;">Delima Realtors offers a complete suite of services designed to meet your property needs at every stage.</p>
+                    </div>
+                </div>
+            </div>
+
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <!-- Amenties Item Start -->
@@ -8,16 +18,17 @@
                         <div class="amenities-img">
                             <a href="amenities-single.html" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/amenities-1.jpg" alt="">
+                                    <img src="/lib/assets/amenities-1.jpg" alt="">
                                 </figure>
                             </a>
                         </div>
                         <div class="amenities-content">
                             <div class="amenities-item-title">
-                                <h3><a href="amenities-single.html">fast WI-FI</a></h3>
+                                <h3><a href="amenities-single.html">Property Search</a></h3>
+                                <p style="color: #999; font-size: 0.85rem; margin-top: 5px;">Personalized property matching</p>
                             </div>
                             <div class="amenities-btn">
-                                <a href="amenities-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                                <a href="amenities-single.html"><img src="/lib/assets/arrow-white.svg" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -30,16 +41,17 @@
                         <div class="amenities-img">
                             <a href="amenities-single.html" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/amenities-2.jpg" alt="">
+                                    <img src="/lib/assets/amenities-2.jpg" alt="">
                                 </figure>
                             </a>
                         </div>
                         <div class="amenities-content">
                             <div class="amenities-item-title">
-                                <h3><a href="amenities-single.html">swimming pool</a></h3>
+                                <h3><a href="amenities-single.html">Investment Advisory</a></h3>
+                                <p style="color: #999; font-size: 0.85rem; margin-top: 5px;">ROI-focused guidance</p>
                             </div>
                             <div class="amenities-btn">
-                                <a href="amenities-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                                <a href="amenities-single.html"><img src="/lib/assets/arrow-white.svg" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -52,16 +64,17 @@
                         <div class="amenities-img">
                             <a href="amenities-single.html" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/amenities-3.jpg" alt="">
+                                    <img src="/lib/assets/amenities-3.jpg" alt="">
                                 </figure>
                             </a>
                         </div>
                         <div class="amenities-content">
                             <div class="amenities-item-title">
-                                <h3><a href="amenities-single.html">parking place</a></h3>
+                                <h3><a href="amenities-single.html">Legal Support</a></h3>
+                                <p style="color: #999; font-size: 0.85rem; margin-top: 5px;">Full transaction coordination</p>
                             </div>
                             <div class="amenities-btn">
-                                <a href="amenities-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                                <a href="amenities-single.html"><img src="/lib/assets/arrow-white.svg" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -74,16 +87,17 @@
                         <div class="amenities-img">
                             <a href="amenities-single.html" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/amenities-4.jpg" alt="">
+                                    <img src="/lib/assets/amenities-4.jpg" alt="">
                                 </figure>
                             </a>
                         </div>
                         <div class="amenities-content">
                             <div class="amenities-item-title">
-                                <h3><a href="amenities-single.html">gym & fitnes</a></h3>
+                                <h3><a href="amenities-single.html">Market Analysis</a></h3>
+                                <p style="color: #999; font-size: 0.85rem; margin-top: 5px;">Real-time market insights</p>
                             </div>
                             <div class="amenities-btn">
-                                <a href="amenities-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                                <a href="amenities-single.html"><img src="/lib/assets/arrow-white.svg" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -96,16 +110,17 @@
                         <div class="amenities-img">
                             <a href="amenities-single.html" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/amenities-5.jpg" alt="">
+                                    <img src="/lib/assets/amenities-5.jpg" alt="">
                                 </figure>
                             </a>
                         </div>
                         <div class="amenities-content">
                             <div class="amenities-item-title">
-                                <h3><a href="amenities-single.html">outdoor space</a></h3>
+                                <h3><a href="amenities-single.html">Financing Advisory</a></h3>
+                                <p style="color: #999; font-size: 0.85rem; margin-top: 5px;">Mortgage & loan guidance</p>
                             </div>
                             <div class="amenities-btn">
-                                <a href="amenities-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                                <a href="amenities-single.html"><img src="/lib/assets/arrow-white.svg" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -118,16 +133,17 @@
                         <div class="amenities-img">
                             <a href="amenities-single.html" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/amenities-6.jpg" alt="">
+                                    <img src="/lib/assets/amenities-6.jpg" alt="">
                                 </figure>
                             </a>
                         </div>
                         <div class="amenities-content">
                             <div class="amenities-item-title">
-                                <h3><a href="amenities-single.html">fireplace</a></h3>
+                                <h3><a href="amenities-single.html">Relocation Support</a></h3>
+                                <p style="color: #999; font-size: 0.85rem; margin-top: 5px;">Seamless moving assistance</p>
                             </div>
                             <div class="amenities-btn">
-                                <a href="amenities-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                                <a href="amenities-single.html"><img src="/lib/assets/arrow-white.svg" alt=""></a>
                             </div>
                         </div>
                     </div>
